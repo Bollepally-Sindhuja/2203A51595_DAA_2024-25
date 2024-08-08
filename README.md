@@ -13,3 +13,5 @@ WEEK-01 [Addition of Matrix](https://github.com/Bollepally-Sindhuja/2203A51595_D
 WEEK-01 [Multiplication of Matrix](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/matrix_multiplication.c)
 
 WEEK-02 [Selection Sort](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/selection_sort.c)
+
+WEEK-03 [Insertion Sort-Productid](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/insertionsort(productid).c)
