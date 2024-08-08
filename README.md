@@ -7,3 +7,5 @@ WEEK-03 [Bubble Sort-book](https://github.com/Bollepally-Sindhuja/2203A51595_DAA
 WEEK-03 [Bubble Sort-destination](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/bubblesort(destination).cpp)
 
 WEEK-02 [Insertion Sort](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/insertion_sort.c)
+
+WEEK-01 [Addition of Matrix](https://github.com/Bollepally-Sindhuja/2203A51595_DAA_Batch-02/blob/main/matrix_addition.c)
